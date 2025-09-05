@@ -21,7 +21,7 @@ These quick steps assume you're on macOS (zsh) and have Python 3.8+ installed.
 1. Clone or copy the project to your machine and change into the directory:
 
 ```bash
-cd /path/to/Spam_Email
+cd /path/to/AI-Powered-Phishing-Email-Detector
 ```
 
 2. Create and activate a virtual environment:
@@ -143,11 +143,3 @@ This project is provided under the MIT License. See LICENSE file for details.
 
 - Built with Streamlit and scikit-learn.
 - PDF report generation uses `fpdf`.
-
-If you'd like, I can also:
-
-- Create a `requirements.txt` with pinned versions.
-- Add a minimal `LICENSE` file (MIT) to the repo.
-- Add a small CONTRIBUTING.md and ISSUE_TEMPLATE for smoother collaboration.
-
-Would you like me to add any of those next?
